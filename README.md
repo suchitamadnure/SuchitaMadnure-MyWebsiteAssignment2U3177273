@@ -1,2 +1,2 @@
-# SuchitaMadnure/MyWebsiteAssignment2U3177273
- Winter Term
+# MyWebsite-Assignment2U3177273
+Website produced for 11056
