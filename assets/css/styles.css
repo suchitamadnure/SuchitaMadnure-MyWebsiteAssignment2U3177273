@@ -2,16 +2,15 @@
 /*Background for the page*/
 
 body {
-    
-    background-color: black;         
+
+    background-color: black;
     color: #ffffff;
-    font-family:  sans-serif;
+    font-family: sans-serif;
     font-size: 16px; 
-    
 }
 
 
-/*--------------------------------- typography *------------------------------------*/
+/*--typography--*/
 
 /*Copyright for the pages*/
 
@@ -21,9 +20,7 @@ body {
     text-align: center;
     font-size:1.0vw;
     font-family: Garamond;
-   
-   margin-left: 1%;
-   
+    margin-left: 1%;
 }
 
 break{
@@ -33,7 +30,6 @@ break{
 
 
 h2{
-    
     font-weight: bold;
     border-bottom: 1px solid white;
     padding: 10px 0px;
@@ -41,14 +37,10 @@ h2{
     color: white;
     background-color:black;
     font-family:Garamond;font-size:1.5vw;
-   
-   
 }
 
 
 .subh{
-    
- 
     font-weight: bold;
     padding: 50px 0px;
     letter-spacing: 1px; 
@@ -56,14 +48,10 @@ h2{
     background-color:black;
     font-family:Brawler;font-size:3.5vw;
     text-align: center;
-   
-   
 }
 
 
 .subhg{
-    
- 
     font-weight: bold;
     padding: 50px 0px;
     letter-spacing: 1px; 
@@ -71,10 +59,7 @@ h2{
     background-color:black;
     font-family:Brawler;font-size:3.5vw;
     text-align: center;
-   
-   
 }
-
 
 
 h3{
@@ -85,12 +70,9 @@ h3{
     background-color:black;    
     margin-left: 5%;
     margin-top: 40px;
-  
-    
-   
 }
+
 #intro{
-  
     font-family:Garamond;font-size:2.4vw;
     font-weight: bold;
     margin-bottom: 2%;
@@ -104,7 +86,6 @@ h3{
 
 
 #statement{
-  
     font-family:Garamond;font-size:2.4vw;
     font-weight: bold;
     margin-bottom: 2%;
@@ -118,7 +99,6 @@ h3{
 
 
 #about{
-    
     font-family:Garamond;font-size:2.4vw;
     font-weight: bold;
     margin-bottom: 2%;
@@ -126,13 +106,9 @@ h3{
     color: #C1BDBC;
     background-color:black;    
     margin-left: 60%;
-  
-    
-   
 }
 
 #design{
-       
     margin-top: 3%;
     margin-bottom: 2%;
     font-family:Garamond;font-size:2.4vw;
@@ -141,31 +117,23 @@ h3{
     color: #C1BDBC;
     background-color:black;    
     margin-left: 10%;
-   
-    
 }
 
 
 #awards{
-       
     margin-top: 4%;
-        margin-bottom: 2%;
-
+    margin-bottom: 2%;
     font-family:Garamond;font-size:2.4vw;
     font-weight: bold;
     letter-spacing: 1px; 
     color: #C1BDBC;
     background-color:black;    
-   text-align: center;
-   
-    
+    text-align: center;
 }
 
 
 .pabout{
-  
-  
-   margin-left: 30%;
+    margin-left: 30%;
     margin-right: 5%;
     padding: 10px 0px; 
     letter-spacing: 1px; 
@@ -175,14 +143,10 @@ h3{
     font-size:1.5vw;
     text-align: left;
     background-color: #C1BDBC;
-  
-        
 }
 
 .parch{
-  
-  
-   margin-left: 40%;
+    margin-left: 40%;
     margin-right: 5%;
     padding: 10px 0px; 
     letter-spacing: 1px; 
@@ -192,7 +156,6 @@ h3{
     font-size:1.5vw;
     text-align: left;
     background-color: #C1BDBC;
-        
 }
 
 .parch2{
@@ -208,12 +171,8 @@ h3{
     background-color: #C1BDBC;
 }
 
-
-
 .award{
-  
-  
-   margin-left: 5%;
+    margin-left: 5%;
     margin-right: 5%;
     padding: 10px 0px; 
     letter-spacing: 1px; 
@@ -224,13 +183,11 @@ h3{
     text-align: left;
     background-color: #C1BDBC;
     margin-bottom: 5%;
-  
-        
 }
 
 p{
-   margin-left: 15%;
-       margin-right: 15%;
+    margin-left: 15%;
+    margin-right: 15%;
     padding: 10px 0px; 
     letter-spacing: 1px; 
     color: black;
@@ -239,14 +196,10 @@ p{
     font-size:1.5vw;
     text-align: center;
     background-color: #C1BDBC;
-   
 }
 
-
-
 .churchills{
-    
-   margin-left: 5%;
+    margin-left: 5%;
     margin-right: 5%;
     padding: 10px 0px; 
     letter-spacing: 1px; 
@@ -258,12 +211,11 @@ p{
     background-color: #C1BDBC;
     margin-bottom: 5%;
     margin-top: 5%;
-    
 }
 
 
 #history{
-     margin-top: 3%;
+    margin-top: 3%;
     margin-bottom: 2%;
     font-family:Garamond;font-size:2.4vw;
     font-weight: bold;
@@ -271,14 +223,12 @@ p{
     color: #C1BDBC;
     background-color:black;    
     margin-left: 10%;
-    
 }
 
 
 
 #mainbuilding{
-  
-   margin-top: 3%;
+    margin-top: 3%;
     margin-bottom: 2%;
     font-family:Garamond;font-size:2.4vw;
     font-weight: bold;
@@ -286,121 +236,93 @@ p{
     color: #C1BDBC;
     background-color:black;    
     margin-left: 10%;
- 
-  
-        
 }
 
 #north{
-       
     margin-top: 4%;
-        margin-bottom: 2%;
-
+    margin-bottom: 2%;
     font-family:Garamond;font-size:2.4vw;
     font-weight: bold;
     letter-spacing: 1px; 
     color: #C1BDBC;
     background-color:black;    
-   text-align: center;
-   
-    
+    text-align: center;
 }
 
 
 #landscape{
-       
     margin-top: 4%;
-        margin-bottom: 2%;
-
+    margin-bottom: 2%;
     font-family:Garamond;font-size:2.4vw;
     font-weight: bold;
     letter-spacing: 1px; 
     color: #C1BDBC;
     background-color:black;    
-   text-align: center;
-   
-    
+    text-align: center;
 }
 
 #stylistic{
-       
     margin-top: 4%;
-        margin-bottom: 2%;
-
+    margin-bottom: 2%;
     font-family:Garamond;font-size:2.4vw;
     font-weight: bold;
     letter-spacing: 1px; 
     color: #C1BDBC;
     background-color:black; 
-     margin-left: 10%
-   
-    
+    margin-left: 10%
 }
 
 
-/*--------------------------------- typography end *------------------------------------*/
+/*--typography end--*/
 
-/*--------------------------------- links *------------------------------------*/
+/*--links--*/
 
 a{ 
     color: white;
     text-decoration: none;
     font-size:1.5vw;
-   
-
 }
-/*--------------------------------- links end *------------------------------------*/
 
-/*--------------------------------- imgaes *------------------------------------*/
+/*--links end --*/
+
+/*--imgaes--*/
 
 .homeimg {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
 }
 
 .history{
-margin-top: 0px; 
-margin-left: 19px;
-height: 15%;
-width: 25%;
-    
+    margin-top: 0px; 
+    margin-left: 19px;
+    height: 15%;
+    width: 25%;
 }
 
-
-
 .robin{
-
-    
-   margin-top: 0px; 
+    margin-top: 0px; 
     margin-left: 19px;
-   height: 15%;
+    height: 15%;
     width: 25%;
 }
 
 
 .arch{
-
-
-   margin-top: 0px; 
-      margin-bottom: px; 
+    margin-top: 0px; 
+    margin-bottom: px; 
     margin-left: 19px;
-   height: 15%;
+    height: 15%;
     width: 35%;
 }
 
+/*--imgaes end--*/
 
 
-
-/*--------------------------------- imgaes end*------------------------------------*/
-
-
-/*--------------------------------- Header for index*------------------------------------*/
+/*--Header for index--*/
 header {
-
     padding:0px;
-   
 }
 
 
@@ -409,153 +331,142 @@ header {
     text-align:center;
     color:white; 
     opacity: 0.9;
-    
 }
 
 .centreredh{
-  position: absolute;
-  top: 25%;
-  left: 50%;
-  transform: translate(-50%, -50%); 
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
     font-size:5.5vw;
     color: black;
     font-family: "Goudy Stout";
-    
 }
 
 
 .charcoal{
-
-   margin-top: 0px; 
-      margin-bottom: 2%; 
- 
+    margin-top: 0px; 
+    margin-bottom: 2%; 
     margin-left: 19px;
-   height: 15%;
+    height: 15%;
     width: 35%;
 }
-/*--------------------------------- header end------------------------------------*/
+
+/*--header end--*/
 
 
-/*--------------------------------- Navigation *------------------------------------*/
+/*--Navigation--*/
 
 
-body {margin: 0;}
-
-ul.topnav {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #000000;
-   
+body {
+    margin: 0;
 }
 
-ul.topnav li {float: left;
-/*get rid to resposiveness */    width: 20%;
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+}
 
-  
+ul.topnav li {
+    float: left;
+/*get rid to resposiveness */    
+    width: 20%;
 }
 
 
 ul.topnav li a {
-  display: block;
-  color: white;
-  text-align: center;
+    display: block;
+    color: white;
+    text-align: center;
     font-family: Amiri;
-        
-  padding: 14px 16px;
-
-  text-decoration: none;
-    
-
+    padding: 14px 16px;
+    text-decoration: none;
 }
 
-ul.topnav li a:hover:not(.active) {background-color: #C1BDBC;}
+ul.topnav li a:hover:not(.active) {
+    background-color: #C1BDBC;
+}
 
-ul.topnav li a.active {background-color: #4d4d4d;}
+ul.topnav li a.active {
+    background-color: #4d4d4d;
+}
 
-ul.topnav li.right {float: right;}
+ul.topnav li.right {
+    float: right;
+}
 
 @media screen and (max-width: 600px) {
-  ul.topnav li.right, 
-  ul.topnav li {float: none;}
+    ul.topnav li.right, 
+    ul.topnav li {float: none;}
 }
-
-
 
 
 .keepleft{
     max-width: 30px;   
-   
 }
 
 
-navcontainer ul
-{
-margin: 10px;
-padding: 0px;
-list-style-type: none;
+navcontainer ul{
+    margin: 10px;
+    padding: 0px;
+    list-style-type: none;
 }
 
-#navcontainer a
-{
-font-family: Amiri; 
-font-size:1.5vw;
-display: inline-block;
-color: #FFF;
-background-color: #000000;
-width: 7em;
-padding: 3px 12px 3px 8px;
-text-decoration:none;
-border-bottom: 1px solid #fff;
-font-weight: bold;
+#navcontainer a{
+    font-family: Amiri; 
+    font-size:1.5vw;
+    display: inline-block;
+    color: #FFF;
+    background-color: #000000;
+    width: 7em;
+    padding: 3px 12px 3px 8px;
+    text-decoration:none;
+    border-bottom: 1px solid #fff;
+    font-weight: bold;
 }
 
-#navcontainer a:hover
-{
-background-color: #C1BDBC;
-color: #FFF;
+#navcontainer a:hover{
+    background-color: #C1BDBC;
+    color: #FFF;
 }
 
-#navcontainer li li a
-{
-
-font-family: Amiri;
-font-size:1.5vw;
-display: inline-block;
-color: #FFF;
-background-color: black;
-
-padding: 3px 3px 3px 17px;
-text-decoration: none;
-border-bottom: 0px solid #fff;
-font-weight: normal;
+#navcontainer li li a{
+    font-family: Amiri;
+    font-size:1.5vw;
+    display: inline-block;
+    color: #FFF;
+    background-color: black;
+    padding: 3px 3px 3px 17px;
+    text-decoration: none;
+    border-bottom: 0px solid #fff;
+    font-weight: normal;
 }
 
-/*--------------------------------- navigation end -----------------------------------*/
+/*--navigation end--*/
 
 
-/*--------------------------------- hr element *------------------------------------*/
+/*--hr element--*/
 
 hr.line {
-  border: 7px solid black;
-  border-radius: 0px;
+    border: 7px solid black;
+    border-radius: 0px;
 }
 
 hr.linegallery {
-  border: 7px solid white;
-margin-top: 5%;
-
+    border: 7px solid white;
+    margin-top: 5%;
 }
 
-/*--------------------------------- hr element end------------------------------------*/
+/*--hr element end--*/
 
 
-/*--------------------------------- main ------------------------------------*/
+/*--main--*/
 
 
 main{
-    
     background-color: black;
     padding: 60px;
     overflow: auto;
@@ -563,95 +474,89 @@ main{
 
 
 mainv{
-    
     background-color:#A9A9A9;
     padding: 0px;
     overflow: auto;
 }
 
 
-/*--------------------------------- main end ------------------------------------*/
+/*--main end--*/
 
 
-/*--------------------------------- footer------------------------------------*/
+/*--footer--*/
 
 
- 
+
 footer{
     background-color:black;
-        padding: 20px;
-
+    padding: 20px;
 }
 
-/* Footer */
 
 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 .column {
-  float: left;
-  width: 25%;
-  padding: 10px;
-/*  height: 300px;  Should be removed. Only for demonstration */
+    float: left;
+    width: 25%;
+    padding: 10px;
 }
 
 .row:after {
-  content: "";
-  display: table;
-  clear: both;
-
+    content: "";
+    display: table;
+    clear: both;
 }
 
 
 
-/*--------------------------------- footer *-----------------------------------*/
+/*--footer--*/
 
- /*  Background Image */
+/*--Background Image--*/
 
 hr.type_10 {
-border: 0;
-height: 55px;
-background-image: url(image/type_10.png);
-background-repeat: no-repeat;
+    border: 0;
+    height: 55px;
+    background-image: url(image/type_10.png);
+    background-repeat: no-repeat;
 }
 
+#leftbox { 
+    float:left;  
+    background:black; 
+    width:25%; 
+    height:10px; 
+    text-align: center;
+} 
 
+#middlebox{ 
+    float:left;  
+    background:black; 
+    width:50%; 
+    height:10px; 
+    text-align: center;
+} 
 
-         #leftbox { 
-                float:left;  
-                background:black; 
-                width:25%; 
-                height:10px; 
-             text-align: center;
-            } 
-            #middlebox{ 
-                float:left;  
-                background:black; 
-                width:50%; 
-                height:10px; 
-                text-align: center;
-            } 
-            #rightbox{ 
-                float:right; 
-                background:black; 
-                width:25%; 
-                height:10px;
-                text-align: center;
-            } 
-            h1{ 
-                color:green; 
-                text-align:center; 
-            } 
+#rightbox{ 
+    float:right; 
+    background:black; 
+    width:25%; 
+    height:10px;
+    text-align: center;
+} 
+
+h1{ 
+    color:green; 
+    text-align:center; 
+} 
+
 .fa {
-  
-  font-size: 30px;
-  width: 30px;
-  text-align: center;
-  text-decoration: none;
-
-  margin: 40px 10px;
- 
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 40px 10px;
 }
 
 .fa:hover {
@@ -659,97 +564,103 @@ background-repeat: no-repeat;
 }
 
 .fa-facebook {
-  background: #3B5998;
-  color: white;
+    background: #3B5998;
+    color: white;
 }
 
- .fa-twitter {
-  background: #55ACEE;
-  color: white;
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
 }
 
 .fa-youtube {
-  background: #bb0000;
-  color: white;
+    background: #bb0000;
+    color: white;
 }
 
 .fa-google {
-  background: #dd4b39;
-  color: white;
+    background: #dd4b39;
+    color: white;
 }
-    
-    
+
 div.social { 
-margin-left: 70%; 
+    margin-left: 70%; 
 }
-    
-    
-    .vl { 
-  border-left: 2px solid white;
-  height: 20px;
+
+.vl { 
+    border-left: 2px solid white;
+    height: 20px;
 }
 
 
-/*--------------------------------- image hover for home page------------------------------------*/
+/*--image hover for home page--*/
 
 
 .container {
-  position: relative;
-  width: 30%;
+    position: relative;
+    width: 75%;
 }
 
 .image {
-  opacity: 1;
-  display: block;
-  width: 100%;
-  height: auto;
-  transition: .5s ease;
-  backface-visibility: hidden;
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
 }
 
 .middle {
-  transition: .5s ease;
-  opacity: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  text-align: center;
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
 }
 
 .container:hover .image {
-  opacity: 0.3;
+    opacity: 0.3;
 }
 
 .container:hover .middle {
-  opacity: 1;
+    opacity: 1;
 }
 
-.text {
-  background-color: #4CAF50;
-  color: white;
-  font-size: 16px;
-  padding: 16px 32px;
+.left-block {
+    float: left;
+    width: 50%;
 }
 
-/*--------------------------------- Floating Back-To-Top Button------------------------------------*/
-    #myBtn {
-        position: right;
-        bottom: 10px;
-        float: right;
-        right: 18.5%;
-        left: 77.25%;
-        max-width: 30px;
-        width: 100%;
-        font-size: 30px;
-        border-color: grey;
-        background-color: red;
-        padding: .5px;
-        border-radius: 4px;
+.right-block {
+    float: right;
+    width: 50%;
+}
 
-    }
+.left-block .parch2 {
+    margin-right: 0
+}
+
+
+/*--Floating Back-To-Top Button--*/
+#myBtn {
+    position: right;
+    bottom: 10px;
+    float: right;
+    right: 18.5%;
+    left: 77.25%;
+    max-width: 30px;
+    width: 100%;
+    font-size: 30px;
+    border-color: grey;
+    background-color: red;
+    padding: .5px;
+    border-radius: 4px;
+}
+
 /*On Hover Color Change*/
-    #myBtn:hover {
-        background-color: #7dbbf1;
-    }
+#myBtn:hover {
+    background-color: #7dbbf1;
+}
