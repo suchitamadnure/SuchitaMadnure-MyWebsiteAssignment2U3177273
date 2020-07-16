@@ -3,9 +3,9 @@
 
 body {
     
-    background-color: black;         
+    background-color: black;
     color: #ffffff;
-    font-family:  sans-serif;
+    font-family: sans-serif;
     font-size: 16px; 
     
 }
@@ -695,7 +695,7 @@ margin-left: 70%;
 
 .container {
   position: relative;
-  width: 30%;
+  width: 75%;
 }
 
 .image {
@@ -708,14 +708,14 @@ margin-left: 70%;
 }
 
 .middle {
-  transition: .5s ease;
-  opacity: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  text-align: center;
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
 }
 
 .container:hover .image {
@@ -726,27 +726,35 @@ margin-left: 70%;
   opacity: 1;
 }
 
-.text {
-  background-color: #4CAF50;
-  color: white;
-  font-size: 16px;
-  padding: 16px 32px;
+.left-block {
+    float: left;
+    width: 50%;
 }
+
+.right-block {
+    float: right;
+    width: 50%;
+}
+
+.left-block .parch2 {
+    margin-right: 0
+}
+
 
 /*--------------------------------- Floating Back-To-Top Button------------------------------------*/
     #myBtn {
-        position: right;
-        bottom: 10px;
-        float: right;
-        right: 18.5%;
-        left: 77.25%;
-        max-width: 30px;
-        width: 100%;
-        font-size: 30px;
-        border-color: grey;
-        background-color: red;
-        padding: .5px;
-        border-radius: 4px;
+    position: right;
+    bottom: 10px;
+    float: right;
+    right: 18.5%;
+    left: 77.25%;
+    max-width: 30px;
+    width: 100%;
+    font-size: 30px;
+    border-color: grey;
+    background-color: red;
+    padding: .5px;
+    border-radius: 4px;
 
     }
 /*On Hover Color Change*/
